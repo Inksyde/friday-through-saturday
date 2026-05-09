@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Every_Days_A_Friday",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "fridayssmpnew.aternos.me",
+    "port": 62220,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,6 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
         "I like to play Minecraft!"
       ]
     },
